@@ -31,12 +31,11 @@ Supported config params are shown below.
 
 | Key | Default Value | Required | Description |
 | -- | -- | -- | -- |
-| host | https://app.squadwe.com | False | The API Host URL, if you are using self-hosted Squadwe, please change this value. |
 | apiVersion | api/v1 | False | The version of the API, at the moment v1 is only available |
 | apiAccessToken | | True | API access token to authenticate with the APIs. You can get the token from your Profile Settings |
 
 
-3. Fire an API request
+1. Fire an API request
 
 ```js
 // ...
