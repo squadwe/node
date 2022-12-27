@@ -1,6 +1,7 @@
 # @squadwe/node
 
 A node.js client for Squadwe APIs
+https://www.squadwe.com
 
 Note: This is a work in progress. Interface can change before a stable release.
 
