@@ -1,6 +1,6 @@
 {
   "name": "@squadwe/node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node.js bindings for Squadwe APIs",
   "main": "lib/index.js",
   "files": [
